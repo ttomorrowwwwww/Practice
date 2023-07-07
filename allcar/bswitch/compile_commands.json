@@ -1,0 +1,452 @@
+[
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/gpio.c.o",
+      "./gpio.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitch/gpio.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitchDebug/gpio.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/main.c.o",
+      "./main.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitch/main.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitchDebug/main.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/mdcmdio.c.o",
+      "./mdcmdio.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitch/mdcmdio.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitchDebug/mdcmdio.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/rtk_api.c.o",
+      "./rtk_api.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitch/rtk_api.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitchDebug/rtk_api.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/rtl8309n_asicdrv.c.o",
+      "./rtl8309n_asicdrv.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitch/rtl8309n_asicdrv.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/stableHeadTailcar/bswitchDebug/rtl8309n_asicdrv.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/gpio.c.o",
+      "./gpio.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitch/gpio.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitchDebug/gpio.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/main.c.o",
+      "./main.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitch/main.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitchDebug/main.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/mdcmdio.c.o",
+      "./mdcmdio.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitch/mdcmdio.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitchDebug/mdcmdio.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/rtk_api.c.o",
+      "./rtk_api.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitch/rtk_api.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitchDebug/rtk_api.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/rtl8309n_asicdrv.c.o",
+      "./rtl8309n_asicdrv.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitch/rtl8309n_asicdrv.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/tailcar/bswitchDebug/rtl8309n_asicdrv.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/gpio.c.o",
+      "./gpio.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitch/gpio.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitchDebug/gpio.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/main.c.o",
+      "./main.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitch/main.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitchDebug/main.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/mdcmdio.c.o",
+      "./mdcmdio.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitch/mdcmdio.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitchDebug/mdcmdio.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/rtk_api.c.o",
+      "./rtk_api.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitch/rtk_api.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitchDebug/rtk_api.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../bswitchDebug/rtl8309n_asicdrv.c.o",
+      "./rtl8309n_asicdrv.c"
+    ],
+    "directory": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitch",
+    "file": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitch/rtl8309n_asicdrv.c",
+    "output": "/home/yk/nfsdir/imx6-3u-netConfig/headcar/bswitchDebug/rtl8309n_asicdrv.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../jiaohuanbDebug/gpio.c.o",
+      "./gpio.c"
+    ],
+    "directory": "/home/yk/nfsdir/jiaohuanb",
+    "file": "/home/yk/nfsdir/jiaohuanb/gpio.c",
+    "output": "/home/yk/nfsdir/jiaohuanbDebug/gpio.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../jiaohuanbDebug/main.c.o",
+      "./main.c"
+    ],
+    "directory": "/home/yk/nfsdir/jiaohuanb",
+    "file": "/home/yk/nfsdir/jiaohuanb/main.c",
+    "output": "/home/yk/nfsdir/jiaohuanbDebug/main.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../jiaohuanbDebug/mdcmdio.c.o",
+      "./mdcmdio.c"
+    ],
+    "directory": "/home/yk/nfsdir/jiaohuanb",
+    "file": "/home/yk/nfsdir/jiaohuanb/mdcmdio.c",
+    "output": "/home/yk/nfsdir/jiaohuanbDebug/mdcmdio.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../jiaohuanbDebug/rtk_api.c.o",
+      "./rtk_api.c"
+    ],
+    "directory": "/home/yk/nfsdir/jiaohuanb",
+    "file": "/home/yk/nfsdir/jiaohuanb/rtk_api.c",
+    "output": "/home/yk/nfsdir/jiaohuanbDebug/rtk_api.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../jiaohuanbDebug/rtl8309n_asicdrv.c.o",
+      "./rtl8309n_asicdrv.c"
+    ],
+    "directory": "/home/yk/nfsdir/jiaohuanb",
+    "file": "/home/yk/nfsdir/jiaohuanb/rtl8309n_asicdrv.c",
+    "output": "/home/yk/nfsdir/jiaohuanbDebug/rtl8309n_asicdrv.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../jiaohuanDebug/gpio.c.o",
+      "./gpio.c"
+    ],
+    "directory": "/home/yk/nfsdir/jiaohuan",
+    "file": "/home/yk/nfsdir/jiaohuan/gpio.c",
+    "output": "/home/yk/nfsdir/jiaohuanDebug/gpio.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../jiaohuanDebug/main.c.o",
+      "./main.c"
+    ],
+    "directory": "/home/yk/nfsdir/jiaohuan",
+    "file": "/home/yk/nfsdir/jiaohuan/main.c",
+    "output": "/home/yk/nfsdir/jiaohuanDebug/main.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../jiaohuanDebug/mdcmdio.c.o",
+      "./mdcmdio.c"
+    ],
+    "directory": "/home/yk/nfsdir/jiaohuan",
+    "file": "/home/yk/nfsdir/jiaohuan/mdcmdio.c",
+    "output": "/home/yk/nfsdir/jiaohuanDebug/mdcmdio.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../jiaohuanDebug/rtk_api.c.o",
+      "./rtk_api.c"
+    ],
+    "directory": "/home/yk/nfsdir/jiaohuan",
+    "file": "/home/yk/nfsdir/jiaohuan/rtk_api.c",
+    "output": "/home/yk/nfsdir/jiaohuanDebug/rtk_api.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yk/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../jiaohuanDebug/rtl8309n_asicdrv.c.o",
+      "./rtl8309n_asicdrv.c"
+    ],
+    "directory": "/home/yk/nfsdir/jiaohuan",
+    "file": "/home/yk/nfsdir/jiaohuan/rtl8309n_asicdrv.c",
+    "output": "/home/yk/nfsdir/jiaohuanDebug/rtl8309n_asicdrv.c.o"
+  }
+]
