@@ -1,0 +1,143 @@
+[
+  {
+    "arguments": [
+      "/home/yeziy/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../aswitchDebug/main.c.o",
+      "./main.c"
+    ],
+    "directory": "/home/yeziy/allcar/aswitch",
+    "file": "/home/yeziy/allcar/aswitch/main.c",
+    "output": "/home/yeziy/allcar/aswitchDebug/main.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yeziy/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-g",
+      "-O0",
+      "-fPIC",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-I.",
+      "-o",
+      "../aswitchDebug/gpio.c.o",
+      "./gpio.c"
+    ],
+    "directory": "/home/yeziy/allcar/aswitch",
+    "file": "/home/yeziy/allcar/aswitch/gpio.c",
+    "output": "/home/yeziy/allcar/aswitchDebug/gpio.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yeziy/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-g",
+      "-O0",
+      "-fPIC",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-I.",
+      "-o",
+      "../aswitchDebug/main.c.o",
+      "./main.c"
+    ],
+    "directory": "/home/yeziy/allcar/aswitch",
+    "file": "/home/yeziy/allcar/aswitch/main.c",
+    "output": "/home/yeziy/allcar/aswitchDebug/main.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yeziy/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-g",
+      "-O0",
+      "-fPIC",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-I.",
+      "-o",
+      "../aswitchDebug/mdcmdio.c.o",
+      "./mdcmdio.c"
+    ],
+    "directory": "/home/yeziy/allcar/aswitch",
+    "file": "/home/yeziy/allcar/aswitch/mdcmdio.c",
+    "output": "/home/yeziy/allcar/aswitchDebug/mdcmdio.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yeziy/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-g",
+      "-O0",
+      "-fPIC",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-I.",
+      "-o",
+      "../aswitchDebug/rtk_api.c.o",
+      "./rtk_api.c"
+    ],
+    "directory": "/home/yeziy/allcar/aswitch",
+    "file": "/home/yeziy/allcar/aswitch/rtk_api.c",
+    "output": "/home/yeziy/allcar/aswitchDebug/rtk_api.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yeziy/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-g",
+      "-O0",
+      "-fPIC",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-I.",
+      "-o",
+      "../aswitchDebug/rtl8309n_asicdrv.c.o",
+      "./rtl8309n_asicdrv.c"
+    ],
+    "directory": "/home/yeziy/allcar/aswitch",
+    "file": "/home/yeziy/allcar/aswitch/rtl8309n_asicdrv.c",
+    "output": "/home/yeziy/allcar/aswitchDebug/rtl8309n_asicdrv.c.o"
+  },
+  {
+    "arguments": [
+      "/home/yeziy/gcc-linaro-7.3.1-2018.05-i686_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc",
+      "-c",
+      "-DMACRO_NAME=1",
+      "-DENABLE_XX=1",
+      "-c",
+      "-Wall",
+      "-g",
+      "-I.",
+      "-o",
+      "../aswitchDebug/gpio.c.o",
+      "./gpio.c"
+    ],
+    "directory": "/home/yeziy/allcar/aswitch",
+    "file": "/home/yeziy/allcar/aswitch/gpio.c",
+    "output": "/home/yeziy/allcar/aswitchDebug/gpio.c.o"
+  }
+]
